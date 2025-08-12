@@ -22,6 +22,7 @@ Explore my projects, articles, and interactive experiments
 
 ---
 
+<!--
 ## 📫 Get in Touch
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-keiel" target="_blank">
@@ -34,6 +35,9 @@ Explore my projects, articles, and interactive experiments
 </p>
 
 ---
+-->
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gkeiel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
