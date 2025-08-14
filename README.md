@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Online Portfolio
-[![Portfolio](https://img.shields.io/badge/Website-gkeiel.github.io-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gkeiel.github.io)  
+[![Portfolio](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gkeiel.github.io)  
 Explore my projects, articles, and interactive experiments
 
 ---
