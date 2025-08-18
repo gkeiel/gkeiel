@@ -16,9 +16,11 @@ Explore my projects, articles, and interactive experiments
 
 | Project | Description | Language |
 |---------|-------------|------|
-| [**py_PMR_robust_design**](https://github.com/gkeiel/py_PMR_robust_design) | Robust PMR controller design | 🐍 Python |
-| [**PMR_robust_design**](https://github.com/gkeiel/PMR_robust_design) | Robust PMR controller design | 📐 MATLAB |
-| [**PID_based_design**](https://github.com/gkeiel/PID_based_design) | PID-based controller design | 📐 MATLAB |
+| [**py_PMR_robust_design**](https://github.com/gkeiel/py_PMR_robust_design) | Robust proportional-multiple-resonant (PMR) controller design | 🐍 Python |
+| [**py_DT_PMR_design**](https://github.com/gkeiel/py_DT_PMR_design) | Discrete-time proportional-multiple-resonant (PMR) controller design | 🐍 Python |
+| [**PID_based_design**](https://github.com/gkeiel/PID_based_design) | Robust PID-based controller design | 📐 MATLAB |
+| [**optimization**](https://github.com/gkeiel/optimization) | Mathematical and heuristic optimization techniques | 📐 MATLAB |
+| [**RR_robot**](https://github.com/gkeiel/RR_robot) | Graphical user interface (GUI) for simulating RR manipulator robots | 📐 MATLAB |
 
 ---
 
