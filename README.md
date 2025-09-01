@@ -19,8 +19,9 @@ Explore my projects, articles, and interactive experiments
 | [**py_PMR_robust_design**](https://github.com/gkeiel/py_PMR_robust_design) | Robust proportional-multiple-resonant (PMR) controller design | 🐍 Python |
 | [**py_DT_PMR_design**](https://github.com/gkeiel/py_DT_PMR_design) | Discrete-time proportional-multiple-resonant (PMR) controller design | 🐍 Python |
 | [**ups_simulation**](https://github.com/gkeiel/ups_simulation) | Simulation and control of uninterruptible power supply (UPS) systems | 📐 MATLAB |
-| [**PID_based_design**](https://github.com/gkeiel/PID_based_design) | Robust PID-based controller design | 📐 MATLAB |
+| [**grid_tied_simulation**](https://github.com/gkeiel/grid_tied_simulation) | Simulation and control of grid-tied inverters | 📐 MATLAB |
 | [**optimization**](https://github.com/gkeiel/optimization) | Mathematical and heuristic optimization techniques | 📐 MATLAB |
+| [**state_estimation**](https://github.com/gkeiel/state_estimation) | State estimation and filtering techniques | 📐 MATLAB |
 | [**RR_robot**](https://github.com/gkeiel/RR_robot) | Graphical user interface (GUI) for simulating RR manipulator robots | 📐 MATLAB |
 
 ---
