@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub
+# Welcome to my GitHub
 
 🎯 **Control and Automation Engineer** focused on **C**, **Python** and **MATLAB**  
 📊 Experienced in modeling, simulation, and control of dynamic systems  
@@ -17,6 +17,7 @@ Explore my projects, articles, and interactive experiments
 | Project | Description | Language |
 |---------|-------------|------|
 | [**py_PMR_robust_design**](https://github.com/gkeiel/py_PMR_robust_design) | Robust proportional-multiple-resonant (PMR) controller design | 🐍 Python |
+| [**py_PMR_design**](https://github.com/gkeiel/py_robust_design) | Continuous-time proportional-multiple-resonant (PMR) controller design | 🐍 Python |
 | [**py_DT_PMR_design**](https://github.com/gkeiel/py_DT_PMR_design) | Discrete-time proportional-multiple-resonant (PMR) controller design | 🐍 Python |
 | [**ups_simulation**](https://github.com/gkeiel/ups_simulation) | Simulation and control of uninterruptible power supply (UPS) systems | 📐 MATLAB |
 | [**grid_tied_simulation**](https://github.com/gkeiel/grid_tied_simulation) | Simulation and control of grid-tied inverters | 📐 MATLAB |
@@ -43,9 +44,7 @@ Explore my projects, articles, and interactive experiments
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gkeiel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
-</p>
+
 
 <!--
 <p align="center">
