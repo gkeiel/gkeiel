@@ -17,7 +17,7 @@ Explore my projects, articles, and experiments
 
 | Project | Description | Language |
 |---------|-------------|------|
-| [**py_PMR_robust_design**](https://github.com/gkeiel/py_PMR_robust_design) | Robust proportional-multiple-resonant (PMR) controller design | 🐍 Python |
+| [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | 🐍 Python |
 | [**supervised_machine_learning**](https://github.com/gkeiel/supervised_machine_learning) | Codes for supervised machine learning: time series analysis and forecasting | 🐍 Python |
 | [**b3_trading_signals**](https://github.com/gkeiel/b3_trading_signals) | Trading sinals and alerts in B3 stock market | 🐍 Python |
 | [**ups_simulation**](https://github.com/gkeiel/ups_simulation) | Simulation and control of uninterruptible power supply (UPS) systems | 📐 MATLAB |
