@@ -2,8 +2,8 @@
 
 **Control and Automation Engineer** focused on **C**, **Python** and **MATLAB**  
 🤖 Works with modeling, simulation, and control of dynamic systems  
-📈 Experienced with pandas, NumPy, SciPy, scikit-learn, matplotlib, python-control, CVXPY  
-⚙️ Interested in automation projects, robust control, and optimization algorithms  
+📈 Experienced with pandas, NumPy, SciPy, statsmodels, scikit-learn, matplotlib, python-control, CVXPY  
+⚙️ Interested in automation projects, robust control, and optimization algorithms
 
 ---
 
@@ -12,8 +12,8 @@ Here are my main projects that showcase my work in Python for trading systems:
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **b3_trading_signals**](https://github.com/gkeiel/b3_trading_signals) | Trading signals in the B3 stock market. Includes **data download**, **backtesting**, **forecasting** and **Telegram notifications**. | 🐍 Python |
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic)**market_trading_signals**](https://github.com/gkeiel/market_trading_signals) | Trading signals in global stock markets. Includes **data download**, **backtesting**, **forecasting** and **Telegram notifications**. | 🐍 Python |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **b3_trading_signals**](https://github.com/gkeiel/b3_trading_signals) | Trading signals for B3 stock market using **technical indicators**. Includes **data download**, **backtesting**, **forecasting** and **Telegram notifications**. | 🐍 Python |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic)**market_trading_signals**](https://github.com/gkeiel/market_trading_signals) | Trading signals for global stock markets using **technical indicators**. Includes **data download**, **backtesting**, **forecasting** and **Telegram notifications**. | 🐍 Python |
 | [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic)**market_forecaster**](https://github.com/gkeiel/market_forecaster) | Trading signals using **machine learning**. Includes **data download**, **predictions** based on ML algorithms, **backtesting**, and **Telegram notifications**. | 🐍 Python |
 
 ---
