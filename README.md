@@ -21,6 +21,7 @@ Here are my main projects that showcase my work in Python for trading systems:
 ## Featured Projects
 | Project | Description | Language |
 |---------|-------------|----------|
+| [**dc_motor_position_control**](https://github.com/gkeiel/dc_motor_position_control) | Experiment for controlling a DC motor angular position | ©️ C++ |
 | [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | 🐍 Python |
 | [**supervised_machine_learning**](https://github.com/gkeiel/supervised_machine_learning) | Stand-alone codes for supervised machine learning: time series analysis and forecasting | 🐍 Python |
 | [**grid_tied_simulation**](https://github.com/gkeiel/grid_tied_simulation) | Simulation and control of grid-tied inverters | 📐 MATLAB |
