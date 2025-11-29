@@ -12,27 +12,27 @@ Here are my main projects that showcase my work in Python for trading systems:
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **b3_trading_signals**](https://github.com/gkeiel/b3_trading_signals) | Trading signals for B3 stock market using **technical indicators**. Includes **data download**, **backtesting**, **forecasting** and **Telegram notifications**. | 🐍 Python |
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic)**market_forecaster**](https://github.com/gkeiel/market_forecaster) | Trading signals using **machine learning**. Includes **data download**, **predictions** based on ML algorithms, **backtesting**, and **Telegram notifications**. | 🐍 Python |
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **dc_motor_position_control**](https://github.com/gkeiel/dc_motor_position_control) | Experiment for **controlling a DC motor angular position**. Includes **PID**, **PR**, **PMR** and **proportional-repetitive** controllers. | ©️ C++ |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **b3_trading_signals**](https://github.com/gkeiel/b3_trading_signals) | Trading signals for B3 stock market using **technical indicators**. Includes **data download**, **backtesting**, **forecasting** and **Telegram notifications**. | Python |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic)**market_forecaster**](https://github.com/gkeiel/market_forecaster) | Trading signals using **machine learning**. Includes **data download**, **predictions** based on ML algorithms, **backtesting**, and **Telegram notifications**. | Python |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **dc_motor_position_control**](https://github.com/gkeiel/dc_motor_position_control) | Experiment for **controlling a DC motor angular position**. Includes **PID**, **PR**, **PMR** and **proportional-repetitive** controllers. | C++ |
 
 ---
 
 ## Featured Projects
 | Project | Description | Language |
 |---------|-------------|----------|
-| [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | 🐍 Python |
-| [**supervised_machine_learning**](https://github.com/gkeiel/supervised_machine_learning) | Stand-alone codes for supervised machine learning: time series analysis and forecasting | 🐍 Python |
-| [**grid_tied_simulation**](https://github.com/gkeiel/grid_tied_simulation) | Simulation and control of grid-tied inverters | 📐 MATLAB |
-| [**ups_simulation**](https://github.com/gkeiel/ups_simulation) | Simulation and control of uninterruptible power supply (UPS) systems | 📐 MATLAB |
-| [**optimization**](https://github.com/gkeiel/optimization) | Mathematical and heuristic optimization techniques | 📐 MATLAB |
-| [**RR_robot**](https://github.com/gkeiel/RR_robot) | Graphical user interface (GUI) for simulating RR manipulator robots | 📐 MATLAB |
+| [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | Python |
+| [**supervised_machine_learning**](https://github.com/gkeiel/supervised_machine_learning) | Stand-alone codes for supervised machine learning: time series analysis and forecasting | Python |
+| [**grid_tied_simulation**](https://github.com/gkeiel/grid_tied_simulation) | Simulation and control of grid-tied inverters | MATLAB |
+| [**ups_simulation**](https://github.com/gkeiel/ups_simulation) | Simulation and control of uninterruptible power supply (UPS) systems | MATLAB |
+| [**optimization**](https://github.com/gkeiel/optimization) | Mathematical and heuristic optimization techniques | MATLAB |
+| [**RR_robot**](https://github.com/gkeiel/RR_robot) | Graphical user interface (GUI) for simulating RR manipulator robots | MATLAB |
 
 ---
 
 ## Online Portfolio
 [![Portfolio](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gkeiel.github.io)  
-Explore my projects, articles, and experiments
+Explore all my projects, articles, and experiments
 
 ---
 
