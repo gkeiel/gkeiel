@@ -12,7 +12,7 @@ Projects that showcase my work on control systems:
 | Project | Description | Language |
 |---------|-------------|----------|
 | [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **dc_motor_position_control**](https://github.com/gkeiel/dc_motor_position_control) | Experiment for **controlling a DC motor angular position**. Includes **PID**, **PR**, **PMR** and **proportional-repetitive** controllers. | C++ |
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **wifi_automation**](https://github.com/gkeiel/wifi_automation) | Experiment of **IoT smart-switch** for remote controlling relays. Includes **Telegram**, **MQTT**, and **local** control interfaces. | C++ |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **WiFi smart switch**](https://github.com/gkeiel/wifi_smart_switch) | Experiment of **IoT smart switch** for remote controlling relays. Includes **Telegram**, **MQTT**, and **local** control interfaces. | C++ |
 
 Projects that showcase my work in Python on trading systems:
 | Project | Description | Language |
