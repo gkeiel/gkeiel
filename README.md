@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 Top Projects
-Projects that showcase my work on experimental automation and control systems:
+Projects that showcase my experimental work on automation and control systems:
 | Project | Description | Language |
 |---------|-------------|----------|
 | [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **dc_motor_position_control**](https://github.com/gkeiel/dc_motor_position_control) | Experiment for **controlling a DC motor angular position**. Includes **PID**, **PR**, **PMR** and **proportional-repetitive** controllers. | C++ |
@@ -18,7 +18,8 @@ Projects that showcase my work on trading systems:
 | Project | Description | Language |
 |---------|-------------|----------|
 | [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **b3_trading_signals**](https://github.com/gkeiel/b3_trading_signals) | Trading signals for B3 stock market using **technical indicators**. Includes **data download**, **backtesting**, **forecasting** and **Telegram notifications**. | Python |
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic)**market_forecaster**](https://github.com/gkeiel/market_forecaster) | Trading signals using **machine learning**. Includes **data download**, **predictions** based on ML algorithms, **backtesting**, and **Telegram notifications**. | Python |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic)**market_forecaster**](https://github.com/gkeiel/market_forecaster) | Trading signals for global markets using **machine learning**. Includes **data download**, **predictions** based on ML algorithms, **backtesting** and **Telegram notifications**. | Python |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic)**trading_strategy_optimizer**](https://github.com/gkeiel/trading_strategy_optimizer) | **Optimizer** for trading strategies. Includes **data download**, **backtesting**, **optimization** and **Telegram notifications**. | Python |
 
 ---
 
