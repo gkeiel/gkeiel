@@ -19,7 +19,7 @@ Projects that showcase my work on trading systems:
 |---------|-------------|----------|
 | [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **b3_trading_signals**](https://github.com/gkeiel/b3_trading_signals) | Trading signals for B3 stock market using **technical indicators**. Includes **data download**, **backtesting**, **forecasting** and **Telegram notifications**. | Python |
 | [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic)**market_forecaster**](https://github.com/gkeiel/market_forecaster) | Trading signals for global markets using **machine learning**. Includes **data download**, **predictions** based on ML algorithms, **backtesting** and **Telegram notifications**. | Python |
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic)**trading_strategy_optimizer**](https://github.com/gkeiel/trading_strategy_optimizer) | **Optimizer** for trading strategies. Includes **data download**, **backtesting**, **optimization** and **Telegram notifications**. | Python |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic)**trading_strategy_optimizer**](https://github.com/gkeiel/trading_strategy_optimizer) | **Optimizer** for trading strategies. Includes **data download**, **backtesting**, **analysis** and **optimization**. | Python |
 
 ---
 
@@ -43,7 +43,7 @@ Explore all my projects, articles, and experiments
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkeiel&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gkeiel&theme=tokyonight" />
 </p>
 
 <p align="center">
