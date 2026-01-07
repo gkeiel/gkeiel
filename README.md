@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 Top Projects
-Projects that showcase my experimental work on automation and control systems:
+Projects that showcase my experiments on automation and control systems:
 | Project | Description | Language |
 |---------|-------------|----------|
 | [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **dc_motor_position_control**](https://github.com/gkeiel/dc_motor_position_control) | Experiment for **controlling a DC motor angular position**. Includes **PID**, **PR**, **PMR** and **proportional-repetitive** controllers. | C++ |
@@ -41,10 +41,6 @@ Projects that showcase my work on trading systems:
 Explore all my projects, articles, and experiments
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gkeiel&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gkeiel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
