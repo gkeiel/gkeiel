@@ -27,7 +27,7 @@ Projects that showcase my work on trading systems:
 | Project | Description | Language |
 |---------|-------------|----------|
 | [**attitude_control_system**](https://github.com/gkeiel/attitude_control_system) | Simulation and control of attitude in spacecrafts | Python |
-| [**pcb_design**](https://github.com/gkeiel/pcb_design) | Printed circuit boards (PCBs) designs for electronic circuits | KiCad |
+| [**pcb_design**](https://github.com/gkeiel/pcb_design_kicad) | Printed circuit boards (PCBs) designs for electronic circuits | KiCad |
 | [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | Python |
 | [**supervised_machine_learning**](https://github.com/gkeiel/supervised_machine_learning) | Stand-alone codes for supervised machine learning: time series analysis and forecasting | Python |
 | [**grid_tied_simulation**](https://github.com/gkeiel/grid_tied_simulation) | Simulation and control of grid-tied inverters | MATLAB |
