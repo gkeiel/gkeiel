@@ -14,6 +14,12 @@ Projects that showcase my experiments on control and embedded systems:
 | [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **dc_motor_position_control**](https://github.com/gkeiel/dc_motor_position_control) | Experiment for **controlling a DC motor angular position**. Includes **PID**, **PR**, **PMR** and **proportional-repetitive** controllers. | C++ |
 | [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **wifi_automation**](https://github.com/gkeiel/wifi_smart_switch) | Experiment of **IoT smart-switch** for remote controlling relays. Includes **Telegram**, **MQTT**, and **local** control interfaces. | C++ |
 
+Projects that showcase my work on printed circuit board (PCB) design:
+| Project | Description | Software |
+|---------|-------------|----------|
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_24v_4**](https://github.com/gkeiel/pcb_design_kicad/tree/main/open/relay_module_24v_4) | Design of a **four-channel 24V relay module**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_12v_optocoupler**](https://github.com/gkeiel/pcb_design_kicad/tree/main/open/relay_module_12v_optocoupler) | Design of a **12V relay module with optocoupler**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
+
 Projects that showcase my work on trading systems:
 | Project | Description | Language |
 |---------|-------------|----------|
@@ -27,9 +33,8 @@ Projects that showcase my work on trading systems:
 | Project | Description | Language |
 |---------|-------------|----------|
 | [**attitude_control_system**](https://github.com/gkeiel/attitude_control_system) | Simulation and control of attitude in spacecrafts | Python |
-| [**pcb_design**](https://github.com/gkeiel/pcb_design_kicad) | Printed circuit boards (PCBs) designs for electronic circuits | KiCad |
-| [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | Python |
 | [**supervised_machine_learning**](https://github.com/gkeiel/supervised_machine_learning) | Stand-alone codes for supervised machine learning: time series analysis and forecasting | Python |
+| [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | Python |
 | [**grid_tied_simulation**](https://github.com/gkeiel/grid_tied_simulation) | Simulation and control of grid-tied inverters | MATLAB |
 | [**ups_simulation**](https://github.com/gkeiel/ups_simulation) | Simulation and control of uninterruptible power supply (UPS) systems | MATLAB |
 | [**RR_robot**](https://github.com/gkeiel/RR_robot) | Graphical user interface (GUI) for simulating RR manipulator robots | MATLAB |
