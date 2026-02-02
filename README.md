@@ -17,8 +17,8 @@ Projects that showcase my experiments on control and embedded systems:
 Projects that showcase my work on printed circuit board (PCB) design:
 | Project | Description | Software |
 |---------|-------------|----------|
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_24v_4**](https://github.com/gkeiel/pcb_design_kicad/tree/main/open/relay_module_24v_4) | Design of a **four-channel 24V relay module**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_12v_optocoupler**](https://github.com/gkeiel/pcb_design_kicad/tree/main/open/relay_module_12v_optocoupler) | Design of a **12V relay module with optocoupler**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_24v_4**](https://github.com/gkeiel/pcb_design_kicad/tree/main/relay_module_24v_4) | Design of a **four-channel 24V relay module**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
+| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_12v_optocoupler**](https://github.com/gkeiel/pcb_design_kicad/tree/main/relay_module_12v_optocoupler) | Design of a **12V relay module with optocoupler**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
 
 Projects that showcase my work on trading systems:
 | Project | Description | Language |
