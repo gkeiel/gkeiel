@@ -11,21 +11,21 @@
 Projects that showcase my experiments on control and embedded systems:
 | Project | Description | Language |
 |---------|-------------|----------|
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **dc_motor_position_control**](https://github.com/gkeiel/dc_motor_position_control) | Experiment for **controlling a DC motor angular position**. Includes **PID**, **PR**, **PMR** and **proportional-repetitive** controllers. | C++ |
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **wifi_automation**](https://github.com/gkeiel/wifi_smart_switch) | Experiment of **IoT smart-switch** for remote controlling relays. Includes **Telegram**, **MQTT**, and **local** control interfaces. | C++ |
+| [![dc_motor_position_control](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **dc_motor_position_control**](https://github.com/gkeiel/dc_motor_position_control) | Experiment for **controlling a DC motor angular position**. Includes **PID**, **PR**, **PMR** and **proportional-repetitive** controllers. | C++ |
+| [![wifi_automation](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **wifi_automation**](https://github.com/gkeiel/wifi_smart_switch) | Experiment of **IoT smart-switch** for remote controlling relays. Includes **Telegram**, **MQTT**, and **local** control interfaces. | C++ |
 
 Projects that showcase my work on printed circuit board (PCB) design:
 | Project | Description | Software |
 |---------|-------------|----------|
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_24v_4**](https://github.com/gkeiel/pcb_design_kicad/tree/main/open/relay_module_24v_4) | Design of a **four-channel 24V relay module**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_12v_optocoupler**](https://github.com/gkeiel/pcb_design_kicad/tree/main/open/relay_module_12v_optocoupler) | Design of a **12V relay module with optocoupler**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
+| [![relay_module_24v_4](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_24v_4**](https://github.com/gkeiel/pcb_design_kicad/tree/main/relay_module_24v_4) | Design of a **four-channel 24V relay module**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
+| [![relay_module_12v_optocoupler](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_12v_optocoupler**](https://github.com/gkeiel/pcb_design_kicad/tree/main/relay_module_12v_optocoupler) | Design of a **12V relay module with optocoupler**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
 
 Projects that showcase my work on trading systems:
 | Project | Description | Language |
 |---------|-------------|----------|
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **b3_trading_signals**](https://github.com/gkeiel/b3_trading_signals) | Trading signals for B3 stock market using **technical indicators**. Includes **data download**, **backtesting**, **forecasting** and **Telegram notifications**. | Python |
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **market_forecaster**](https://github.com/gkeiel/market_forecaster) | Trading signals for global markets using **machine learning**. Includes **data download**, **predictions** based on ML algorithms, **backtesting** and **Telegram notifications**. | Python |
-| [![Top Project](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **trading_strategy_optimizer**](https://github.com/gkeiel/trading_strategy_optimizer) | **Optimizer** for trading strategies. Includes **data download**, **backtesting**, **analysis** and **optimization**. | Python |
+| [![b3_trading_signals](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **b3_trading_signals**](https://github.com/gkeiel/b3_trading_signals) | Trading signals for B3 stock market using **technical indicators**. Includes **data download**, **backtesting**, **forecasting** and **Telegram notifications**. | Python |
+| [![market_forecaster](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **market_forecaster**](https://github.com/gkeiel/market_forecaster) | Trading signals for global markets using **machine learning**. Includes **data download**, **predictions** based on ML algorithms, **backtesting** and **Telegram notifications**. | Python |
+| [![trading_strategy_optimizer](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **trading_strategy_optimizer**](https://github.com/gkeiel/trading_strategy_optimizer) | **Optimizer** for trading strategies. Includes **data download**, **backtesting**, **analysis** and **optimization**. | Python |
 
 ---
 
