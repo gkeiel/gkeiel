@@ -18,7 +18,7 @@ Projects that showcase my work on printed circuit board (PCB) design:
 | Project | Description | Software |
 |---------|-------------|----------|
 | [![relay_module_12v_optocoupler_smt](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_12v_optocoupler**](https://github.com/gkeiel/pcb_design_kicad/tree/main/relay_module_12v_optocoupler_smt) | Design of a **12V relay module SMT with optocoupler**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
-| [![arduino_nano_cc_driver](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **arduino_nano_cc_driver**](https://github.com/gkeiel/pcb_design_kicad/tree/main/arduino_nano_cc_driver) | Design of a **Arduino Nano CC driver and sensor carrier borad**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
+| [![arduino_nano_cc_driver](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **arduino_nano_cc_driver**](https://github.com/gkeiel/pcb_design_kicad/tree/main/arduino_nano_cc_driver) | Design of a **Arduino Nano CC driver and sensor carrier board**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
 | [![relay_module_24v_4](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_24v_4**](https://github.com/gkeiel/pcb_design_kicad/tree/main/relay_module_24v_4) | Design of a **four-channel 24V relay module**. Includes **schematic** and **PCB** files. | KiCad |
 
 Projects that showcase my work on trading systems:
@@ -33,8 +33,10 @@ Projects that showcase my work on trading systems:
 ## Featured Projects
 | Project | Description | Language |
 |---------|-------------|----------|
+| [**pcb_design_kicad**](https://github.com/gkeiel/pcb_design_kicad) | Printed circuit boards (PCBs) designs for some electronic circuits | Python |
 | [**attitude_control_system**](https://github.com/gkeiel/attitude_control_system) | Simulation and control of attitude in spacecrafts | Python |
 | [**supervised_machine_learning**](https://github.com/gkeiel/supervised_machine_learning) | Stand-alone codes for supervised machine learning: time series analysis and forecasting | Python |
+| [**openfinance_santander_integration**](https://github.com/gkeiel/openfinance_santander_integration) | Integration with Santander Open Finance API for balance and statement queries | Python |
 | [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | Python |
 | [**grid_tied_simulation**](https://github.com/gkeiel/grid_tied_simulation) | Simulation and control of grid-tied inverters | MATLAB |
 | [**ups_simulation**](https://github.com/gkeiel/ups_simulation) | Simulation and control of uninterruptible power supply (UPS) systems | MATLAB |
