@@ -18,7 +18,7 @@ Projects that showcase my work on printed circuit board (PCB) design:
 | Project | Description | Software |
 |---------|-------------|----------|
 | [![relay_module_12v_optocoupler_smt](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_12v_optocoupler**](https://github.com/gkeiel/pcb_design_kicad/tree/main/relay_module_12v_optocoupler_smt) | Design of a **12V relay module SMT with optocoupler**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
-| [![arduino_nano_cc_driver](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **arduino_nano_cc_driver**](https://github.com/gkeiel/pcb_design_kicad/tree/main/arduino_nano_cc_driver) | Design of a **Arduino Nano CC driver and sensor carrier board**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
+| [![arduino_nano_cc_driver_mosfet](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **arduino_nano_cc_driver_mosfet**](https://github.com/gkeiel/pcb_design_kicad/tree/main/arduino_nano_cc_driver_mosfet) | Design of a **full-bridge CC driver and sensor for Arduino Nano (carrier board)**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
 | [![relay_module_24v_4](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_24v_4**](https://github.com/gkeiel/pcb_design_kicad/tree/main/relay_module_24v_4) | Design of a **four-channel 24V relay module**. Includes **schematic** and **PCB** files. | KiCad |
 
 Projects that showcase my work on trading systems:
