@@ -13,7 +13,7 @@ Projects that showcase my experiments on control and embedded systems:
 |---------|-------------|----------|
 | [![dc_motor_position_control](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **dc_motor_position_control**](https://github.com/gkeiel/dc_motor_position_control) | Experiment for **controlling a DC motor angular position**. Includes **PID**, **PR**, **PMR** and **proportional-repetitive** controllers. | C++ |
 | [![wifi_automation](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **wifi_automation**](https://github.com/gkeiel/wifi_smart_switch) | Experiment of **IoT smart-switch** for remote controlling relays. Includes **Telegram**, **MQTT**, and **local** control interfaces. | C++ |
-| [![remote_stopwatch_control](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **wifi_automation**](https://github.com/gkeiel/remote_stopwatch_control) | Experiment for **controllling a IR stopwatch**. Includes **LE2113 timer commands** and **ultrassonic sensor** interface. | C++ |
+| [![remote_stopwatch_control](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **remote_stopwatch_control**](https://github.com/gkeiel/remote_stopwatch_control) | Experiment for **controllling a IR stopwatch**. Includes **LE2113 timer commands** and **ultrassonic sensor** interface. | C++ |
 
 Projects that showcase my work on printed circuit board (PCB) design:
 | Project | Description | Software |
