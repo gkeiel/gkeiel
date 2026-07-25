@@ -35,14 +35,13 @@ Projects that showcase my work on trading systems:
 ## Featured Projects
 | Project | Description | Language |
 |---------|-------------|----------|
+| [**line_follower_robot**](https://github.com/gkeiel/line_follower_robot) | Control algorithms for microcontrolled-based line-follower robots | C++ |
+| [**line_follower_robot_lego**](https://github.com/gkeiel/line_follower_robot_lego) | Control algorithms for LEGO EV3 and LEGO SPIKE line-follower robots | C++ |
 | [**pcb_design_kicad**](https://github.com/gkeiel/pcb_design_kicad) | Printed circuit boards (PCBs) designs for some electronic circuits | Python |
+| [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | Python |
 | [**attitude_control_system**](https://github.com/gkeiel/attitude_control_system) | Simulation and control of attitude in spacecrafts | Python |
 | [**supervised_machine_learning**](https://github.com/gkeiel/supervised_machine_learning) | Stand-alone codes for supervised machine learning: time series analysis and forecasting | Python |
 | [**openfinance_santander_integration**](https://github.com/gkeiel/openfinance_santander_integration) | Integration with Santander Open Finance API for balance and statement queries | Python |
-| [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | Python |
-| [**grid_tied_simulation**](https://github.com/gkeiel/grid_tied_simulation) | Simulation and control of grid-tied inverters | MATLAB |
-| [**ups_simulation**](https://github.com/gkeiel/ups_simulation) | Simulation and control of uninterruptible power supply (UPS) systems | MATLAB |
-| [**RR_robot**](https://github.com/gkeiel/RR_robot) | Graphical user interface (GUI) for simulating RR manipulator robots | MATLAB |
 
 ---
 
