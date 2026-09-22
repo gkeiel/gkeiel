@@ -1,29 +1,29 @@
 # Welcome to my GitHub
 
-**Control and Automation Engineer** focused on **C**, **Python** and **MATLAB**  
-🤖 Works with modeling, simulation, and control of dynamic systems  
-📈 Experienced with pandas, NumPy, SciPy, statsmodels, scikit-learn, matplotlib, python-control, CVXPY  
-⚙️ Interested in quantitative analysis, automation projects and control experiments 
+**Control and Automation Engineer** focused on **Control Systems**, **Embedded Systems**, **PCB Design**, and **Data Science**  
+🤖 Works with embedded systems, control, and automation  
+🔧 Designs electronic circuits and PCBs for embedded applications  
+📈 Experienced with Python, data analysis, machine learning, and scientific computing  
 
 ---
 
-## 🌟 Top Projects
-Projects that showcase my experiments on control and embedded systems:
+## 🌟 Embedded Systems
 | Project | Description | Language |
 |---------|-------------|----------|
 | [![dc_motor_position_control](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **dc_motor_position_control**](https://github.com/gkeiel/dc_motor_position_control) | Experiment for **controlling a DC motor angular position**. Includes **PID**, **PR**, **PMR** and **proportional-repetitive** controllers. | C++ |
 | [![wifi_automation](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **wifi_automation**](https://github.com/gkeiel/wifi_smart_switch) | Experiment of **IoT smart-switch** for remote controlling relays. Includes **Telegram**, **MQTT**, and **local** control interfaces. | C++ |
-| [![remote_stopwatch_control](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **remote_stopwatch_control**](https://github.com/gkeiel/remote_stopwatch_control) | Experiment for **controllling a IR stopwatch**. Includes **LE2113 timer commands** and **ultrassonic sensor** interface. | C++ |
+| [![line_follower_robot](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **line_follower_robot**](https://github.com/gkeiel/line_follower_robot) | Experiment for **microcontroller-based line-follower robot**. Includes **PID** controllers and its variations. | C++ |
+| [![remote_stopwatch_control](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **remote_stopwatch_control**](https://github.com/gkeiel/remote_stopwatch_control) | Experiment for **controlling a IR stopwatch**. Includes **LE2113 timer commands** and **ultrasonic sensor** interface. | C++ |
 
-Projects that showcase my work on printed circuit board (PCB) design:
+## 🌟 Printed Circuit Board (PCB) Design
 | Project | Description | Software |
 |---------|-------------|----------|
 | [![relay_module_5v_optocoupler_smt](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_5v_optocoupler_smt**](https://github.com/gkeiel/pcb_design_kicad/tree/main/relay_module_5v_optocoupler_smt) | Design of a **3.3/5/12 V relay module with optocoupler SMT**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
 | [![relay_module_5v_optocoupler_4_smt](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **relay_module_5v_optocoupler_4_smt**](https://github.com/gkeiel/pcb_design_kicad/tree/main/relay_module_5v_optocoupler_4_smt) | Design of a **3.3/5/12 V relay module 4 channels with optocoupler SMT**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
 | [![arduino_nano_fullbridge_dc_driver](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **arduino_nano_fullbridge_dc_driver**](https://github.com/gkeiel/pcb_design_kicad/tree/main/arduino_nano_fullbridge_dc_driver) | Design of a **full-bridge DC driver and sensors for Arduino Nano (carrier board)**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
-| [![arduino_nano_fullbridge_dc_driver](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **arduino_nano_low_side_dc_driver**](https://github.com/gkeiel/pcb_design_kicad/tree/main/arduino_nano_low_side_dc_driver) | Design of a **two low-side DC driver and sensors for Arduino Nano (carrier board)**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
+| [![arduino_nano_fullbridge_dc_driver](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **arduino_nano_low_side_dc_driver**](https://github.com/gkeiel/pcb_design_kicad/tree/main/arduino_nano_low_side_dc_driver) | Design of a **dual low-side DC driver and sensors for Arduino Nano (carrier board)**. Includes **schematic**, **PCB**, **BOM** and **Gerber files**. | KiCad |
 
-Projects that showcase my work on trading systems:
+## 🌟 Data Science and Programming
 | Project | Description | Language |
 |---------|-------------|----------|
 | [![b3_trading_signals](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **b3_trading_signals**](https://github.com/gkeiel/b3_trading_signals) | Trading signals for B3 stock market using **technical indicators**. Includes **data download**, **backtesting**, **forecasting** and **Telegram notifications**. | Python |
@@ -35,17 +35,19 @@ Projects that showcase my work on trading systems:
 ## Featured Projects
 | Project | Description | Language |
 |---------|-------------|----------|
-| [**line_follower_robot**](https://github.com/gkeiel/line_follower_robot) | Control algorithms for microcontrolled-based line-follower robots | C++ |
 | [**line_follower_robot_lego**](https://github.com/gkeiel/line_follower_robot_lego) | Control algorithms for LEGO EV3 and LEGO SPIKE line-follower robots | C++ |
 | [**pcb_design_kicad**](https://github.com/gkeiel/pcb_design_kicad) | Printed circuit boards (PCBs) designs for some electronic circuits | Python |
 | [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | Python |
-| [**attitude_control_system**](https://github.com/gkeiel/attitude_control_system) | Simulation and control of attitude in spacecrafts | Python |
+| [**attitude_control_system**](https://github.com/gkeiel/attitude_control_system) | Simulation and control of attitude in spacecraft | Python |
 | [**supervised_machine_learning**](https://github.com/gkeiel/supervised_machine_learning) | Stand-alone codes for supervised machine learning: time series analysis and forecasting | Python |
-| [**openfinance_santander_integration**](https://github.com/gkeiel/openfinance_santander_integration) | Integration with Santander Open Finance API for balance and statement queries | Python |
 
 ---
 
-## Online Portfolio
+If the variety of projects looks like a lack of focus, consider that some of it is simply a hobby, and some of it is what a weak job market makes engineers do when they refuse to stop learning.
+
+---
+
+## Portfolio
 [![Portfolio](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gkeiel.github.io)  
 Explore my projects, articles, and experiments
 
