@@ -14,6 +14,8 @@
 | [![wifi_automation](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **wifi_automation**](https://github.com/gkeiel/wifi_smart_switch) | Experiment of **IoT smart-switch** for remote controlling relays. Includes **Telegram**, **MQTT**, and **local** control interfaces. | C++ |
 | [![line_follower_robot](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **line_follower_robot**](https://github.com/gkeiel/line_follower_robot) | Experiment for **microcontroller-based line-follower robot**. Includes **PID** controllers and its variations. | C++ |
 | [![remote_stopwatch_control](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **remote_stopwatch_control**](https://github.com/gkeiel/remote_stopwatch_control) | Experiment for **controlling a IR stopwatch**. Includes **LE2113 timer commands** and **ultrasonic sensor** interface. | C++ |
+| [![pidcon](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **PIDcon**](https://github.com/gkeiel/pidcon) | A lightweight **proportional-integral-derivative (PID) control library for Arduino**. | C++ |
+
 
 ## 🌟 Printed Circuit Board (PCB) Design
 | Project | Description | Software |
