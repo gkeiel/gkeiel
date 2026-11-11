@@ -15,6 +15,7 @@
 | [![line_follower_robot](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **line_follower_robot**](https://github.com/gkeiel/line_follower_robot) | Experiment for **microcontroller-based line-follower robot**. Includes **PID** controllers and its variations. | C++ |
 | [![remote_stopwatch_control](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **remote_stopwatch_control**](https://github.com/gkeiel/remote_stopwatch_control) | Experiment for **controlling a IR stopwatch**. Includes **LE2113 timer commands** and **ultrasonic sensor** interface. | C++ |
 | [![pidcon](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **PIDcon**](https://github.com/gkeiel/pidcon) | A lightweight **proportional-integral-derivative (PID) control library for Arduino**. | C++ |
+| [![pmrcon](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **PMRcon**](https://github.com/gkeiel/pmrcon) | A lightweight **proportional-multiple-resonant (PMR) control library for Arduino**. | C++ |
 
 
 ## 🌟 Printed Circuit Board (PCB) Design
@@ -38,7 +39,7 @@
 | Project | Description | Language |
 |---------|-------------|----------|
 | [**line_follower_robot_lego**](https://github.com/gkeiel/line_follower_robot_lego) | Control algorithms for LEGO EV3 and LEGO SPIKE line-follower robots | C++ |
-| [**pcb_design_kicad**](https://github.com/gkeiel/pcb_design_kicad) | Printed circuit boards (PCBs) designs for some electronic circuits | Python |
+| [**pcb_design_kicad**](https://github.com/gkeiel/pcb_design_kicad) | Printed circuit boards (PCBs) designs for some electronic circuits | KiCad |
 | [**py_PMR_design**](https://github.com/gkeiel/py_PMR_design) | Proportional-multiple-resonant (PMR) controller design: CT robust, CT and DT | Python |
 | [**attitude_control_system**](https://github.com/gkeiel/attitude_control_system) | Simulation and control of attitude in spacecraft | Python |
 | [**supervised_machine_learning**](https://github.com/gkeiel/supervised_machine_learning) | Stand-alone codes for supervised machine learning: time series analysis and forecasting | Python |
