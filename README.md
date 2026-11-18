@@ -16,6 +16,7 @@
 | [![remote_stopwatch_control](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **remote_stopwatch_control**](https://github.com/gkeiel/remote_stopwatch_control) | Experiment for **controlling a IR stopwatch**. Includes **LE2113 timer commands** and **ultrasonic sensor** interface. | C++ |
 | [![pidcon](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **PIDcon**](https://github.com/gkeiel/pidcon) | A lightweight **proportional-integral-derivative (PID) control library for Arduino**. | C++ |
 | [![pmrcon](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **PMRcon**](https://github.com/gkeiel/pmrcon) | A lightweight **proportional-multiple-resonant (PMR) control library for Arduino**. | C++ |
+| [![repcon](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **REPcon**](https://github.com/gkeiel/repcon) | A lightweight **proportional-repetitive (PREP) control library for Arduino**. | C++ |
 
 
 ## 🌟 Printed Circuit Board (PCB) Design
