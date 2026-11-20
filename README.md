@@ -38,7 +38,8 @@
 ## 🌟 Interactive Applications
 | Application | Description | Access |
 |-------------|-------------|--------|
-| [![control_tuning_lab](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **control_tuning_lab**](https://gkeiel.github.io/control_tuning_lab/) |   Interactive **PID/PR controller tuning and dynamic response simulation**. | HTML, JavaScript |  
+| [![control_tuning_lab](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **control_tuning_lab**](https://gkeiel.github.io/control_tuning_lab/) |   Web-based **application for PID/PR/PREP controller tuning and dynamic response simulation**. | HTML, JavaScript |  
+| [![machine_elements_lab](https://img.shields.io/badge/Top_Project-🌟-blue?style=plastic) **control_tuning_lab**](https://gkeiel.github.io/machine_elements_lab/) |   Web-based **application for machine elements simulation**. | HTML, JavaScript |  
 
 ---
 
